@@ -1,0 +1,12 @@
+.button {
+    color: aqua;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.text{
+    color: aquamarine;
+    background-color: darkblue;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
